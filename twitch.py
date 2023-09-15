@@ -1,8 +1,8 @@
 import requests
 
 # Twitch API credentials
-twitch_client_id = 'qyqgygw75wsa6nduvffk40cqgsya5c'
-twitch_client_secret = '39lvr5rre8hzo7n01zuab87tfp2eeg'
+twitch_client_id = ''
+twitch_client_secret = ''
 
 # Check streamer's status
 def check_stream_status(twitch_username):
